@@ -1,5 +1,6 @@
 # Ilya Siman
 ## Contact
+### Location: Tula, Russia
 ### Email: ilya250199@gmail.com
 ### GitHub: SimanIL25
 ## Skills
