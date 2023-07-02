@@ -1,5 +1,5 @@
 # Ilya Siman
 ## Contact
-# Phone: +375 29 134-40-41
-# Email: kryvetskistud@gmail.com
-# GitHub: kryvetski-andrei
+### Phone: +375 29 134-40-41
+### Email: ilya250199@gmail.com
+### GitHub: SimanIL25
